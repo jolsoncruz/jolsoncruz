@@ -13,9 +13,9 @@ As a Network Engineer, I gained experience in contributing to the emergence of I
 * 🌍  I'm based in Montreal
 * 🖥️  See my portfolio at [Jolson Cruz (WIP)](http://jolsoncruz.com)
 * ✉️  You can contact me at [me@jolsoncruz.com](mailto:me@jolsoncruz.com)
-* 🚀  I'm currently working on [creating my personal website portfolio](#)
+* 🚀  I'm currently working on [creating my personal website portfolio](http://jolsoncruz.com)
 * 🧠  I'm learning React and NextJS
-* 🤝  I'm open to collaborating on interesting projects (specially on the field of aerospace, banking, etc), SASS start-ups, etc.
+* 🤝  I'm open to collaborating on interesting projects (specially on the field of aerospace, banking, etc), SAAS start-ups, etc.
 * ⚡  "Progress in technology isn't just about innovation; it's about the persistent pursuit of refining, iterating, and perfecting the building blocks that shape our future."
 
 ### Skills
